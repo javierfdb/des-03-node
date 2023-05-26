@@ -1,0 +1,15 @@
+Hola, qué tal? 
+Le dejo unos comentarios/información:
+
+1. Para el Front utilicé una versión que subió un compañero igual a la del
+   'Apoyo Desafío' pero la armó usando Vite.
+2. Utilicé el código correción que mandó el profesor Francisco Totesaut
+   para la función 'getPost' en el App.jsx de React
+3. Nombré la base de datos y tabla según lo especificado en el desafío
+4. Pude ver en el front las cards con los perfiles que le había cargado a la base de datos, 
+y además pude cargar nuevas cards desde el front de react usando el formulario
+para agregar perfiles.
+ 
+Saludos!
+
+   
