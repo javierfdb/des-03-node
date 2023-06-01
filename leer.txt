@@ -1,15 +1,30 @@
-Hola, qué tal? 
-Le dejo unos comentarios/información:
+Hola Profesor, gusto en saludar.
 
-1. Para el Front utilicé una versión que subió un compañero igual a la del
-   'Apoyo Desafío' pero la armó usando Vite.
-2. Utilicé el código correción que mandó el profesor Francisco Totesaut
-   para la función 'getPost' en el App.jsx de React
-3. Nombré la base de datos y tabla según lo especificado en el desafío
-4. Pude ver en el front las cards con los perfiles que le había cargado a la base de datos, 
-y además pude cargar nuevas cards desde el front de react usando el formulario
-para agregar perfiles.
+Para esta segunda parte se realizo lo siguiente:
+
+   - Se modularizó el código según norma MVC
+   - Se creó el archivo de variables de entorno (para este caso lo comparto nomás)
+   - Se crearon las rutas generar las interacciones: borrar post y dar like a post.
+
+En React:
+Realice unas modificaciones para poder generar la interacción de likes, fue lo siguiente:
+
+ - En App.jsx
+     --> mofifiqué la función 'getPosts'
+     --> cree la función 'limpiaInputs'
+     --> modifiqué la función de 'agregarPost'
+
+ - En Post.jsx 
+     --> Modifiqué la función onclick 'like'
+
+*De todas formas le comparto el link a ese repositorio del front: 
+--> https://github.com/javierfdb/front-react-desafio3-y-4-unidad-node
+
+Saludos.
  
+
+
+
 Saludos!
 
    

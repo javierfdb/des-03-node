@@ -1,4 +1,11 @@
 export const handleErrors = (code) => {
+  if (!code) {
+    return {
+      status: 500,
+      message: "Error de servidor, código desconocido",
+    };
+  }
+
     switch (code) {
       case "22P02":
         return {
