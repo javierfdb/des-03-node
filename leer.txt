@@ -20,11 +20,6 @@ Realice unas modificaciones para poder generar la interacción de likes, fue lo 
 *De todas formas le comparto el link a ese repositorio del front: 
 --> https://github.com/javierfdb/front-react-desafio3-y-4-unidad-node
 
-Saludos.
- 
-
-
-
 Saludos!
 
    
